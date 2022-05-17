@@ -10,6 +10,3 @@ Create a task
 
 Delete a task
 ![](https://github.com/IxSxHxY/Tutorial/blob/main/Django/todo/images/delete.gif)
-
-Edit a task
-![](https://github.com/IxSxHxY/Tutorial/blob/main/Django/todo/images/edit.gif)
