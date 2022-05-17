@@ -1,4 +1,4 @@
-This project is based on [this tutorial](https://youtu.be/4RWFvXDUmjo) by dennis ivy
+This project is based on [this tutorial](https://youtu.be/4RWFvXDUmjo) by [dennis ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
 
 I learnded some django's fundamental and knew how to perform basic CRUD operations.
 
