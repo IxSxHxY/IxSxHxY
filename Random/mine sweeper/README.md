@@ -1,7 +1,11 @@
 <h1>Minesweeper</h1>
-This (small) project/tutorial is fully done by myself
-<br>
-Control:
+<p>This (small) project/tutorial is fully done by myself</p>
+<p>Prerequisites:</p>
+<ul>
+  <li>Pygame</li>
+  <li>Tkinter</li>
+</ul>
+<p>Control:</p>
 <ul>
   <li>Left-click to open the tile</li>
   <li>Right-click to place the flag</li>
