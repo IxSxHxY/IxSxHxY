@@ -1,4 +1,5 @@
-# This project is all created by myself.
+# Description
+This project is all created by myself for learning purpose. This application visualize some of the sorting algorithms
 
 # Required packages:
 <ul>
