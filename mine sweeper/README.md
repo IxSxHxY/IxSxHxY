@@ -19,4 +19,4 @@ To play the game, use the command
 
 Demo:
 
-![demo](https://github.com/IxSxHxY/Tutorial/blob/main/Random/mine%20sweeper/demo/Minesweeper%20demo.gif)
+![demo](https://github.com/IxSxHxY/Tutorial/blob/d2169442203eae4ae69c2b4a1eb714b851b62cfb/mine%20sweeper/demo/Minesweeper%20demo.gif)
